@@ -1,0 +1,5 @@
+python-dotenv~=1.0.1
+git+https://github.com/onkgopotse007/trainee-prn.git@main#egg=trainee_prn
+git+https://github.com/onkgopotse007/trainee-labs.git@main#egg=trainee_labs
+setuptools~=69.0.3
+Django~=3.1.14
